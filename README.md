@@ -10,9 +10,7 @@ Simplify the following big O expressions as much as possible:
 - O(n)
 
 2. O(100 * n)
-
-- O(n)
-
+  O(n)
 3. O(25)
 
 - O(1)
